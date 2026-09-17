@@ -6,7 +6,7 @@ while i < user_number:
         print("HipHop")
         continue
     elif i % 3 == 0:
-        print("Hip")
+        print("Hiip")
         continue
     elif i % 5 == 0:
         print("Hop")
