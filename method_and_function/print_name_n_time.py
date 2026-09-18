@@ -9,3 +9,5 @@ def print_name(name , n=1):
         print(i, name)
 
 print_name("Mehrshad", 10)
+print("\n")
+print_name("Mehrshad")
